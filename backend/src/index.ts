@@ -22,3 +22,6 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
 
+// Add Socket.io to the server
+// configure the server for deployment 
+
