@@ -4,8 +4,10 @@ ORM Used: Prisma
     prisma.schema for PostgreSQL database setup 
     tables are called models in Prisma
 Packages Used: 
-    dependencies: npm install express prisma @prisma/client dotenv jsonwebtoken cookie-parser bcryptjs 
+    dependencies: npm install express prisma @prisma/client dotenv jsonwebtoken cookie-parser bcryptjs react-router-dom
     DevDependencies: npm install --save-dev @types/express nodemon ts-node typescript @types/bcryptjs @types/jsonwebtoken @types/cookie-parser
+    npm i -D daisyui@latest
+    npm i daisy ui // component library for tailwindcss
 
 
 Steps in setting up the database
